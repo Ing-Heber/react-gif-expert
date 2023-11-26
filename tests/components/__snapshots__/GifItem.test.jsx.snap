@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing <GifItem /> Component Should Match Snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="One Punch"
+      src="https://localhost/OnePunch.com"
+    />
+    <p>
+      One Punch
+    </p>
+  </div>
+</div>
+`;
